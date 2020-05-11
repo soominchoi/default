@@ -1,0 +1,43 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <DB2CodeStyleSettings version="2">
+      <option name="QUOTE_IDENTIFIER" value="1" />
+    </DB2CodeStyleSettings>
+    <DerbyCodeStyleSettings version="2">
+      <option name="QUOTE_IDENTIFIER" value="1" />
+    </DerbyCodeStyleSettings>
+    <H2CodeStyleSettings version="2">
+      <option name="QUOTE_IDENTIFIER" value="1" />
+    </H2CodeStyleSettings>
+    <HSQLCodeStyleSettings version="2">
+      <option name="QUOTE_IDENTIFIER" value="1" />
+    </HSQLCodeStyleSettings>
+    <MSSQLCodeStyleSettings version="2">
+      <option name="QUOTE_IDENTIFIER" value="1" />
+    </MSSQLCodeStyleSettings>
+    <MySQLCodeStyleSettings version="2">
+      <option name="QUOTE_IDENTIFIER" value="1" />
+    </MySQLCodeStyleSettings>
+    <OracleCodeStyleSettings version="2">
+      <option name="QUOTE_IDENTIFIER" value="1" />
+    </OracleCodeStyleSettings>
+    <PostgresCodeStyleSettings version="2">
+      <option name="QUOTE_IDENTIFIER" value="1" />
+    </PostgresCodeStyleSettings>
+    <SQLiteCodeStyleSettings version="2">
+      <option name="QUOTE_IDENTIFIER" value="1" />
+    </SQLiteCodeStyleSettings>
+    <SqlCodeStyleSettings version="2">
+      <option name="ALIAS_CASE" value="0" />
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TYPE_CASE" value="0" />
+      <option name="IDENTIFIER_CASE" value="0" />
+      <option name="QUOTED_IDENTIFIER_CASE" value="0" />
+      <option name="QUOTE_IDENTIFIER" value="1" />
+    </SqlCodeStyleSettings>
+    <SybaseCodeStyleSettings version="2">
+      <option name="QUOTE_IDENTIFIER" value="1" />
+      <option name="QUOTE_TYPE" value="21" />
+    </SybaseCodeStyleSettings>
+  </code_scheme>
+</component>

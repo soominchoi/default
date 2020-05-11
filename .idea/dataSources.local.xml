@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="impala" uuid="b2824009-b93a-49cc-affd-6c4cbdb67557">
+      <database-info product="Impala" version="2.12.0-cdh5.15.2" jdbc-version="4.1" driver-name="ImpalaJDBC" driver-version="02.06.12.1013" dbms="IMPALA" exact-version="2.12" exact-driver-version="2.6">
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <secret-storage>master_key</secret-storage>
+      <user-name>smchoi</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="database" qname="Impala">
+            <node kind="schema">
+              <name qname="admin" />
+              <name qname="app_event" />
+              <name qname="appsflyer" />
+              <name qname="banking_history" />
+              <name qname="banking_history_categorization" />
+              <name qname="dw" />
+              <name qname="inquiry" />
+              <name qname="ods_hive" />
+              <name qname="temp" />
+              <name qname="toss" />
+              <name qname="toss_banking" />
+              <name qname="toss_banking_ad" />
+              <name qname="toss_banking_history" />
+              <name qname="toss_card" />
+              <name qname="toss_card_log" />
+              <name qname="toss_user" />
+              <name qname="toss_user_journey" />
+            </node>
+          </node>
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
+  </component>
+</project>

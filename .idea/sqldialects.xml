@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$USER_HOME$/Desktop/Query/Major metrics/Active user 의 3 조회 사용 dictribution.sql" dialect="GenericSQL" />
+    <file url="file://$USER_HOME$/Desktop/Query/Major metrics/첫가입 전후 7일간 가장 많이 사용하는 서비스는.sql" dialect="HiveQL" />
+  </component>
+</project>
