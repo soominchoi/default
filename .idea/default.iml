@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="DBE_MODULE" version="4">
   <component name="NewModuleRootManager">
+    <content url="file://$USER_HOME$/DatagripProjects" />
+    <content url="file://$USER_HOME$/DatagripProjects/github" />
     <content url="file://$USER_HOME$/Desktop/Query" />
     <content url="file://$USER_HOME$/Downloads/Fintech" />
     <orderEntry type="inheritedJdk" />
