@@ -2,10 +2,18 @@
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
     <data-source source="LOCAL" name="impala" uuid="b2824009-b93a-49cc-affd-6c4cbdb67557">
+      <driver-ref>java.sql.Driver</driver-ref>
       <synchronize>true</synchronize>
       <configured-by-url>true</configured-by-url>
       <jdbc-driver>com.cloudera.impala.jdbc41.Driver</jdbc-driver>
       <jdbc-url>jdbc:impala://172.30.71.31:21050</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="superset" uuid="2c103094-e28b-428f-bda7-5a27c7cd8f49">
+      <driver-ref>dfa07110-aa60-4f6d-9587-202840e04d36</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>com.cloudera.impala.jdbc41.Driver</jdbc-driver>
+      <jdbc-url>jdbc:impala://172.30.71.210:8099/</jdbc-url>
     </data-source>
   </component>
 </project>
