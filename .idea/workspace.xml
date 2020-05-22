@@ -24,7 +24,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2fe1b18-7aa9-4c3b-9d3b-f6039c232bfd" name="Default Changelist" comment="[test] test 0647">
+    <list default="true" id="b2fe1b18-7aa9-4c3b-9d3b-f6039c232bfd" name="Default Changelist" comment="[FIX] all">
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/b2824009-b93a-49cc-affd-6c4cbdb67557.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b2824009-b93a-49cc-affd-6c4cbdb67557.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -61,11 +61,11 @@
       <recent name="C:\Users\smchoi\Desktop\Query\ABTest basic metrics" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\smchoi\DatagripProjects\ABTest basic metrics" />
+      <recent name="C:\Users\smchoi\DatagripProjects\Major metrics" />
+      <recent name="C:\Users\smchoi\DatagripProjects\User_jouney\TF\재난지원금" />
       <recent name="C:\Users\smchoi\DatagripProjects\Major metrics\전체 intelligence 효율" />
       <recent name="C:\Users\smchoi\DatagripProjects\github" />
-      <recent name="C:\Users\smchoi\Desktop\Query\User_jouney\TF" />
-      <recent name="C:\Users\smchoi\Desktop\Query\ad-hoc" />
-      <recent name="C:\Users\smchoi\Desktop\Query\User_jouney\etc" />
     </key>
   </component>
   <component name="TaskManager">
@@ -90,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589465926988</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[FIX] all">
+      <created>1589869277541</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589869277541</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,7 +113,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[test] test 0647" />
-    <option name="LAST_COMMIT_MESSAGE" value="[test] test 0647" />
+    <MESSAGE value="[FIX] all" />
+    <option name="LAST_COMMIT_MESSAGE" value="[FIX] all" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1478" y="619" key="#Custom_Plugin_Repositories" timestamp="1589196944013">
@@ -150,29 +158,29 @@
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
     <state x="986" y="424" key="Github.UntrackedFilesDialog/62.0.2498.1440/-1378.-387.1378.2560@62.0.2498.1440" timestamp="1589199226805" />
-    <state width="2155" height="355" key="GridCell.Tab.0.bottom" timestamp="1589869259878">
+    <state width="2155" height="423" key="GridCell.Tab.0.bottom" timestamp="1590113964699">
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
-    <state width="1160" height="1126" key="GridCell.Tab.0.bottom/62.0.2498.1440/-1378.-387.1378.2560@-1378.-387.1378.2560" timestamp="1589768799687" />
-    <state width="2155" height="355" key="GridCell.Tab.0.bottom/62.0.2498.1440/-1378.-387.1378.2560@62.0.2498.1440" timestamp="1589869259878" />
+    <state width="1160" height="351" key="GridCell.Tab.0.bottom/62.0.2498.1440/-1378.-387.1378.2560@-1378.-387.1378.2560" timestamp="1590072875322" />
+    <state width="2155" height="423" key="GridCell.Tab.0.bottom/62.0.2498.1440/-1378.-387.1378.2560@62.0.2498.1440" timestamp="1590113964699" />
     <state width="1993" height="356" key="GridCell.Tab.0.bottom/62.0.2498.1440@62.0.2498.1440" timestamp="1587452364468" />
-    <state width="2155" height="355" key="GridCell.Tab.0.center" timestamp="1589869259878">
+    <state width="2155" height="423" key="GridCell.Tab.0.center" timestamp="1590113964699">
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
-    <state width="1160" height="1126" key="GridCell.Tab.0.center/62.0.2498.1440/-1378.-387.1378.2560@-1378.-387.1378.2560" timestamp="1589768799686" />
-    <state width="2155" height="355" key="GridCell.Tab.0.center/62.0.2498.1440/-1378.-387.1378.2560@62.0.2498.1440" timestamp="1589869259878" />
+    <state width="1160" height="351" key="GridCell.Tab.0.center/62.0.2498.1440/-1378.-387.1378.2560@-1378.-387.1378.2560" timestamp="1590072875321" />
+    <state width="2155" height="423" key="GridCell.Tab.0.center/62.0.2498.1440/-1378.-387.1378.2560@62.0.2498.1440" timestamp="1590113964699" />
     <state width="1993" height="356" key="GridCell.Tab.0.center/62.0.2498.1440@62.0.2498.1440" timestamp="1587452364468" />
-    <state width="2155" height="355" key="GridCell.Tab.0.left" timestamp="1589869259878">
+    <state width="2155" height="423" key="GridCell.Tab.0.left" timestamp="1590113964699">
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
-    <state width="1160" height="1126" key="GridCell.Tab.0.left/62.0.2498.1440/-1378.-387.1378.2560@-1378.-387.1378.2560" timestamp="1589768799686" />
-    <state width="2155" height="355" key="GridCell.Tab.0.left/62.0.2498.1440/-1378.-387.1378.2560@62.0.2498.1440" timestamp="1589869259878" />
+    <state width="1160" height="351" key="GridCell.Tab.0.left/62.0.2498.1440/-1378.-387.1378.2560@-1378.-387.1378.2560" timestamp="1590072875321" />
+    <state width="2155" height="423" key="GridCell.Tab.0.left/62.0.2498.1440/-1378.-387.1378.2560@62.0.2498.1440" timestamp="1590113964699" />
     <state width="1993" height="356" key="GridCell.Tab.0.left/62.0.2498.1440@62.0.2498.1440" timestamp="1587452364468" />
-    <state width="2155" height="355" key="GridCell.Tab.0.right" timestamp="1589869259878">
+    <state width="2155" height="423" key="GridCell.Tab.0.right" timestamp="1590113964699">
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
-    <state width="1160" height="1126" key="GridCell.Tab.0.right/62.0.2498.1440/-1378.-387.1378.2560@-1378.-387.1378.2560" timestamp="1589768799686" />
-    <state width="2155" height="355" key="GridCell.Tab.0.right/62.0.2498.1440/-1378.-387.1378.2560@62.0.2498.1440" timestamp="1589869259878" />
+    <state width="1160" height="351" key="GridCell.Tab.0.right/62.0.2498.1440/-1378.-387.1378.2560@-1378.-387.1378.2560" timestamp="1590072875322" />
+    <state width="2155" height="423" key="GridCell.Tab.0.right/62.0.2498.1440/-1378.-387.1378.2560@62.0.2498.1440" timestamp="1590113964699" />
     <state width="1993" height="356" key="GridCell.Tab.0.right/62.0.2498.1440@62.0.2498.1440" timestamp="1587452364468" />
     <state width="207" height="477" key="HiddenNamespacesPopup" timestamp="1589190604797">
       <screen x="62" y="0" width="2498" height="1440" />
@@ -192,10 +200,10 @@
     </state>
     <state width="909" height="793" key="SwitcherDM/62.0.2498.1440/-1378.-387.1378.2560@-1378.-387.1378.2560" timestamp="1589202586620" />
     <state width="569" height="446" key="SwitcherDM/62.0.2498.1440/-1378.-387.1378.2560@62.0.2498.1440" timestamp="1589805295731" />
-    <state x="903" y="453" key="Vcs.Push.Dialog.v2" timestamp="1589465961509">
+    <state x="903" y="453" key="Vcs.Push.Dialog.v2" timestamp="1589869280408">
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
-    <state x="903" y="453" key="Vcs.Push.Dialog.v2/62.0.2498.1440/-1378.-387.1378.2560@62.0.2498.1440" timestamp="1589465961509" />
+    <state x="903" y="453" key="Vcs.Push.Dialog.v2/62.0.2498.1440/-1378.-387.1378.2560@62.0.2498.1440" timestamp="1589869280408" />
     <state x="1210" y="661" key="com.intellij.database.run.ParametersPanel.Standalone" timestamp="1589528561771">
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
@@ -220,11 +228,11 @@
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
     <state x="1116" y="633" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.2498.1440/-1378.-387.1378.2560@62.0.2498.1440" timestamp="1589275964411" />
-    <state x="1036" y="321" width="1252" height="798" key="find.popup" timestamp="1589861646156">
+    <state x="1036" y="321" width="1252" height="798" key="find.popup" timestamp="1590054349139">
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
     <state x="-841" y="184" width="752" height="1419" key="find.popup/62.0.2498.1440/-1378.-387.1378.2560@-1378.-387.1378.2560" timestamp="1589202980900" />
-    <state x="1036" y="321" width="1252" height="798" key="find.popup/62.0.2498.1440/-1378.-387.1378.2560@62.0.2498.1440" timestamp="1589861646156" />
+    <state x="1036" y="321" width="1252" height="798" key="find.popup/62.0.2498.1440/-1378.-387.1378.2560@62.0.2498.1440" timestamp="1590054349139" />
     <state x="983" y="507" key="git4idea.merge.GitPullDialog" timestamp="1589277057255">
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
@@ -237,10 +245,10 @@
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
     <state width="650" height="467" key="javadoc.popup.new/62.0.2498.1440/-1378.-387.1378.2560@62.0.2498.1440" timestamp="1589298671078" />
-    <state x="-875" y="191" width="672" height="1206" key="search.everywhere.popup" timestamp="1589771541779">
-      <screen x="-1378" y="-387" width="1378" height="2560" />
+    <state x="974" y="325" width="672" height="678" key="search.everywhere.popup" timestamp="1590022500013">
+      <screen x="62" y="0" width="2498" height="1440" />
     </state>
     <state x="-875" y="191" width="672" height="1206" key="search.everywhere.popup/62.0.2498.1440/-1378.-387.1378.2560@-1378.-387.1378.2560" timestamp="1589771541779" />
-    <state x="974" y="325" width="672" height="678" key="search.everywhere.popup/62.0.2498.1440/-1378.-387.1378.2560@62.0.2498.1440" timestamp="1589465953541" />
+    <state x="974" y="325" width="672" height="678" key="search.everywhere.popup/62.0.2498.1440/-1378.-387.1378.2560@62.0.2498.1440" timestamp="1590022500013" />
   </component>
 </project>
