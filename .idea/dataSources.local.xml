@@ -2,7 +2,7 @@
 <project version="4">
   <component name="dataSourceStorageLocal">
     <data-source name="impala" uuid="b2824009-b93a-49cc-affd-6c4cbdb67557">
-      <database-info product="Impala" version="2.12.0-cdh5.15.2" jdbc-version="4.1" driver-name="ImpalaJDBC" driver-version="02.06.12.1013" dbms="IMPALA" exact-version="2.12" exact-driver-version="2.6">
+      <database-info product="Impala" version="3.3.0-RELEASE" jdbc-version="4.1" driver-name="ImpalaJDBC" driver-version="02.06.12.1013" dbms="IMPALA" exact-version="3.3" exact-driver-version="2.6">
         <identifier-quote-string>`</identifier-quote-string>
       </database-info>
       <secret-storage>master_key</secret-storage>
@@ -28,6 +28,7 @@
               <name qname="toss_card_log" />
               <name qname="toss_user" />
               <name qname="toss_user_journey" />
+              <name qname="" />
             </node>
           </node>
         </introspection-scope>

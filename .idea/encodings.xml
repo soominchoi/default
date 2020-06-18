@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/b2824009-b93a-49cc-affd-6c4cbdb67557/console.sql" charset="UTF-8" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/b2824009-b93a-49cc-affd-6c4cbdb67557/console_1.sql" charset="UTF-8" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/b2824009-b93a-49cc-affd-6c4cbdb67557/console_3.sql" charset="UTF-8" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/b2824009-b93a-49cc-affd-6c4cbdb67557/console_4.sql" charset="UTF-8" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/b2824009-b93a-49cc-affd-6c4cbdb67557/console_5.sql" charset="UTF-8" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/b2824009-b93a-49cc-affd-6c4cbdb67557/console_6.sql" charset="UTF-8" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/b2824009-b93a-49cc-affd-6c4cbdb67557/console_7.sql" charset="UTF-8" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/b2824009-b93a-49cc-affd-6c4cbdb67557/console_8.sql" charset="UTF-8" />
     <file url="file://$USER_HOME$/DatagripProjects/Major metrics/Active user 의 3 조회 사용 dictribution.sql" charset="UTF-8" />
-    <file url="file://$USER_HOME$/DatagripProjects/Major metrics/첫가입 전후 7일간 가장 많이 사용하는 서비스는.sql" charset="UTF-8" />
+    <file url="file://$USER_HOME$/DatagripProjects/Major metrics/공인인증 ca 구분하여 funnel .sql" charset="UTF-8" />
+    <file url="file://$USER_HOME$/DatagripProjects/Major metrics/대시 보드 유입자중, 계좌 카드 조회 비중.sql" charset="UTF-8" />
+    <file url="file://$USER_HOME$/DatagripProjects/Major metrics/앱오픈 TO REG 버그 픽스 .sql" charset="UTF-8" />
+    <file url="file://$USER_HOME$/DatagripProjects/Major metrics/전체 intelligence 효율/전체 앱오픈 to인텔리to 등록.sql" charset="UTF-8" />
+    <file url="file://$USER_HOME$/DatagripProjects/Major metrics/전체 들어온 사람 중 알림탭의 효과.sql" charset="UTF-8" />
     <file url="file://$USER_HOME$/DatagripProjects/Major metrics/최초 계좌 등록시점에 어느 채널로 등록했는가 .sql" charset="UTF-8" />
-    <file url="file://$USER_HOME$/DatagripProjects/User_jouney/TF/재난지원금/재난지원금 funnel mart.sql" charset="UTF-8" />
+    <file url="file://$USER_HOME$/DatagripProjects/User_jouney/TF/송완계/송완배 클릭 등록 컨버전 .sql" charset="UTF-8" />
+    <file url="file://$USER_HOME$/DatagripProjects/User_jouney/TF/온보딩/온보딩 FUNNEL.sql" charset="UTF-8" />
     <file url="file://$USER_HOME$/DatagripProjects/User_jouney/TF/재난지원금/재난지원금 funnel mart.sql" charset="UTF-8" />
     <file url="file://$USER_HOME$/DatagripProjects/User_jouney/TF/재난지원금/재난지원금 효율.sql" charset="UTF-8" />
+    <file url="file://$USER_HOME$/DatagripProjects/User_jouney/TF/전생찾기/전생 찾기 기본 데이터 .sql" charset="UTF-8" />
+    <file url="file://$USER_HOME$/DatagripProjects/User_jouney/TF/전생찾기/전생찾기 FUNNEL .sql" charset="UTF-8" />
+    <file url="file://$USER_HOME$/DatagripProjects/User_jouney/TF/전생찾기/전생찾기 앱푸시 효율.sql" charset="UTF-8" />
+    <file url="file://$USER_HOME$/DatagripProjects/User_jouney/TF/전생찾기/전생찾기 앱푸시 효율.sql" charset="UTF-8" />
+    <file url="file://$USER_HOME$/DatagripProjects/User_jouney/채널발굴/첫가입 전후 7일간 가장 많이 사용하는 서비스는.sql" charset="UTF-8" />
+    <file url="file://$USER_HOME$/DatagripProjects/ad-hoc/앱푸시실시간 지표 .sql" charset="UTF-8" />
+    <file url="file://$USER_HOME$/DatagripProjects/ad-hoc/앱푸시실시간 지표 .sql" charset="UTF-8" />
+    <file url="file://$USER_HOME$/DatagripProjects/ad-hoc/토스 가입 첫날 계좌 등록 여부에 따른 retention차이.sql" charset="UTF-8" />
     <file url="file://$USER_HOME$/Desktop/Query/ad-hoc/test.sql" charset="UTF-8" />
     <file url="file://$USER_HOME$/Downloads/재난지원금 overview.sql" charset="UTF-8" />
     <file url="file://$USER_HOME$/Downloads/카드 등록 현황 (5분단위).sql" charset="UTF-8" />
